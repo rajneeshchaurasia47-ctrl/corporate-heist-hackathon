@@ -1,7 +1,7 @@
 # Corporate Heist - Solution Documentation
 
 **Team Name:** NeuralKnights  
-**Members:** Rajnish Kumar, Prince Kumar  
+**Author:** Rajnish Kumar
 **Event:** Innov8 4.0 Hackathon (Eightfold AI X Aries IIT Delhi)
 
 ## Overview
