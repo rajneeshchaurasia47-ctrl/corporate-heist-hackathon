@@ -17,3 +17,7 @@ Our candidate shortlisting pipeline is engineered using HistGradientBoosting mod
 1. Install dependencies:
    ```bash
    pip install pandas scikit-learn
+2. Run solution script: 
+     python solution.py
+3. Validate output format:   
+   python check_format.py
